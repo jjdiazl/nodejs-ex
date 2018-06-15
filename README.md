@@ -25,7 +25,6 @@
   * [Looking for help](#looking-for-help)
   * [Compatibility](#compatibility)
   * [License](#license)
-<!-- testjd -->
 <!-- tocstop -->
 
 ## Node.js sample app on OpenShift!
